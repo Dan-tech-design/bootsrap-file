@@ -1,0 +1,22 @@
+.hero-main{
+    height: 70vh;
+}
+
+.bg-gradient{
+    background: linear-gradient((90deg, rgb(11, 125, 225) 60%, rgb(76, 17, 145)));
+}
+
+.navbar{
+    position: absolute
+
+}
+
+.hero-img{
+    width: 500px;
+}
+
+@media screen and (max-width: 992px){
+  .hero-img{
+      width: 50px;
+  }    
+}
